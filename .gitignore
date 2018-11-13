@@ -1,0 +1,10 @@
+*.pyc
+*~
+.idea
+venv
+__init__.py
+1A65D100
+autorun.bat
+base.bak
+base.dat
+base.dir
