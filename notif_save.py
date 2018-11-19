@@ -1,4 +1,5 @@
-""" The script checks the changes in the file by the date and time of saving """
+"""  The script checks the changes in the file by the date and time of saving, 
+and if changes are detected, a system message appears (in Windows) """
 
 import time
 import shelve
